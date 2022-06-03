@@ -59,4 +59,4 @@ sysinfo.txt
 crashlytics-build.properties
 
 # For MacOS
-.DS_Store
+**/.DS_Store
